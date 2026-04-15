@@ -9,6 +9,10 @@
 <h1 align="center">🧠 CRTX (Cortex)</h1>
 
 <p align="center">
+  <i>Started from curiosity. Built into something real.</i>
+</p>
+
+<p align="center">
   <b>Intelligence. Automation. Control.</b>
 </p>
 
